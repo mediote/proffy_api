@@ -1,0 +1,16 @@
+# INICIANDO PROJETO COM NODEJS
+  # yarn init -y
+
+# ADD SUPORTE A TYPESCRIPT
+  # yarn add typescript -D
+  # yarn tsc --init
+
+# LIVE RELOAD NODEJS
+  # yarn add ts-node-dev -D
+
+# INSTALANDO EXPRESS
+  # yarn add express
+  # yarn add @types/express -D 
+
+# BANCO DE DADOS SQLITE COM KNEX (Query Builder)
+  # yarn add knex sqlite3
